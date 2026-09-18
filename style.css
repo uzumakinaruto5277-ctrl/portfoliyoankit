@@ -1,0 +1,218 @@
+body{
+    margin: 0;
+}
+header{
+    background-image: url(land.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: skyblue;
+    height: 520px;
+}
+#text{
+    margin: 0;
+    color: red;
+        font-family: Dancing Script, cursive;
+        font-size: 60px;
+    text-align: center;
+    padding-top: 100px;
+}
+#text1{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+    font-family: Dancing Script, cursive;
+    padding-top: 10px;
+}
+#image{
+    width: 105px;
+    height: 105px;
+    border-radius: 100%;
+    position: fixed;
+    top: 20px;
+    left: 10px;
+}
+.image1{
+    position: absolute;
+    right: 124px;
+    top: 40px;
+}
+.image2{
+    position: absolute;
+    left: 178px;
+    top: 33px;
+}
+.hare1{
+    display: flex;
+    justify-content: center;
+}
+#hare{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    position: relative;
+    top: 20px;
+
+}
+.hii{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(7, 163, 98);
+}
+.word{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+     width: 80%;
+    margin: 1rem auto;
+}
+.word:hover{
+    background-color: rgb(77, 227, 227);
+}
+.dot{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(7, 163, 98);
+    margin-top: -51px;
+}
+#skill{
+    color: rgb(7, 163, 98);
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 80px;
+}
+#pro{
+    margin: 0;
+    text-align: center;
+    font-size: 60px;
+     color: rgb(7, 163, 98);
+     position: relative;
+
+     
+}
+.com{
+    margin: 0;
+    float: left;
+    width: 400px;
+    height: 350px;
+    padding-left: 180px;
+    display: inline-block;
+}
+#lo{
+text-align: center;
+width: 90%;
+line-height: 1.3;
+font-size: 26px;
+}
+.new{
+     color: rgb(7, 163, 98);
+     font-size: 60px;
+     margin-top: 98px;
+     padding-left: 20px;
+}
+.p{
+    margin: 0 auto;
+    margin-left: 60px;
+    width: 80%;
+    line-height: 1.5;
+    font-size: 50px;
+}
+#krishna{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    float: right;
+    margin-right: 20px;
+}
+.mahamantra{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+     width: 80%;
+    margin: 1rem auto;
+    line-height: 1.5;
+}
+.mahamantra:hover{
+    background-color: rgb(53, 156, 197);
+   
+}
+.dot1{
+    font-size: 100px;
+    text-align: center;
+     color: rgb(5, 12, 9);
+     margin-top: 10px;
+}
+.get{
+    text-align: center;
+    font-size: 60px;
+    margin-top: -40px;
+    color: #019267;
+}
+.para{
+    font-size:27px ;
+    text-align: center;
+    width: 80%;
+    margin: 1rem auto;
+}
+.para:hover{
+    background-color: rgb(53, 156, 197);
+}
+.para1{
+      font-size:30px ;
+    text-align: center;
+    width: 80%;
+    margin: 1rem auto;
+}
+.para1:hover{
+    background-color: rgb(53, 156, 197);
+}
+#but{
+    text-align: center;
+}
+.btn{
+    margin: 1rem;
+        background-color: #3D94F6;
+        color: white;
+    height: 80px;
+    width: 18%;
+    font-size: 35px;
+    font-weight: 100;
+    border-radius: 20px;
+}
+.btn:hover{
+    background-color: #3D94F6;
+    box-shadow: 1px 1px 20px rgb(3, 2, 2);
+    text-shadow: 1px 1px 20px rgb(15, 13, 13);
+}
+.foot{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    font-size: 25px;
+    color: rgb(18, 18, 195);
+}
+footer{
+    background-color: #B8FFF9;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(123, 122, 122);
+    text-decoration: underline;
+}
+
+#copy{
+    font-size: 20px;
+    color: black;
+    position: relative;
+    bottom: 120px;
+    text-align: center;
+}
+#nam{
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+bottom: 70px;
+}
